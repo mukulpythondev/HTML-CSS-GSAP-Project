@@ -5,7 +5,7 @@ This repository contains a simple landing page created using HTML, CSS, and GSAP
 
 ## Demo
 
-A live demo of the landing page can be accessed at [https://your-demo-link.com](https://your-demo-link.com).
+A live demo of the landing page can be accessed at [https://mukul-rana-landing-page.netlify.app/).
 
 ## Features
 
